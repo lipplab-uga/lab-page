@@ -156,7 +156,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My website and data analysis portfolio",
+    "title": "About us",
     "section": "",
     "text": "Hello\n\nAnd hello again\nWelcome to my website and data analysis portfolio.\n\nPlease use the Menu Bar above to look around.\nHave fun!\n\nFeel free to change this text any way you want 😁!"
   },
@@ -208,5 +208,12 @@
     "title": "YOURNAME Data Analysis Portfolio",
     "section": "",
     "text": "Folder for all tables (generally stored as Rds files) and other files.\nYou can create further sub-folders if that makes sense."
+  },
+  {
+    "objectID": "current_members.html",
+    "href": "current_members.html",
+    "title": "Current lab members",
+    "section": "",
+    "text": "Add some text and a figure describing myself.\nFor details, see the exercise instructions."
   }
 ]

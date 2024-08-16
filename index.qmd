@@ -1,15 +1,3 @@
 ---
-title: "My website and data analysis portfolio"
+title: "About the Lipp Lab"
 ---
-
-# Hello
-
-### And hello again
-
-Welcome to **my website** and _data analysis portfolio._ 
-
-
-* Please use the `Menu Bar` above to look around.
-* Have fun!
-
-**Feel free to change this text any way you want 😁!**

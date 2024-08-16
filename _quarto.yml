@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "YOURNAME Data Analysis Portfolio"
+  title: "Lipp Lab"
   navbar:
     left:
-      - text: "About Me"
-        file: aboutme.qmd
-      - text: "Projects"
+      - text: "Current Members"
+        file: current_members.qmd
+      - text: "Alumni"
+        file: alumni.qmd
+      - text: "Publications"
+        file: publications.qmd
+      - text: "Current Projects"
         menu:
           - text: "Starter Analysis Exercise"
             file: starter-analysis-exercise/products/report/starter-analysis-report.qmd
@@ -20,11 +24,11 @@ website:
             file: tidytuesday-exercise/tidytuesday-exercise.qmd
     right:
       - icon: github 
-        href: URL-TO-THIS-REPOSITORY-HERE        
+        href: https://github.com/lipplab-uga       
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     highlight: zenburn
     css: styles.css
     toc: FALSE
